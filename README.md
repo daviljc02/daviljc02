@@ -18,16 +18,17 @@ Passionate about sports, games and movies.
 
 
 ### Tools & Languages
-
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" />
+</p>
 
 ---
 
 ### I'm currently learning
 
-- **Advanced R programming and data wrangling**  
+- **Advanced R programming and data management**  
 - **Scientific writing using LaTeX**  
 - **Git and version control for collaborative data science**
 - **Relational Algebra and SQL**
