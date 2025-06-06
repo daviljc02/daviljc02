@@ -2,7 +2,7 @@
 
 🎓 I'm a Statistics student at Universidade Federal Fluminense (UFF), Brazil.  
 📚 Currently part of a **Statistical Literacy** project focused on democratizing and teaching statistical thinking to people.  
-💡 Passionate about sports, games, and reproducible research.
+💡 Passionate about sports, games and movies.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 🌱 I'm currently learning
 
--**Advanced R programming and data wrangling**  
+- **Advanced R programming and data wrangling**  
 - **Scientific writing using LaTeX**  
 - **Git and version control for collaborative data science**
 - **Relational Algebra and SQL**
@@ -34,5 +34,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 
 ---
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=daviljc02&color=blue)
