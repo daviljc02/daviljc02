@@ -8,7 +8,7 @@ Passionate about sports, games and movies.
 
 ### Current Projects
 
-- **Letramento Estatístico** — [GitHub Repository](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)  
+- **Letramento Estatístico** — [GitHub Repository](https://github.com/biafrancoff/LetramentoEstatisticoUFF.git)  
   A project focused on democratizing statistical thinking through accessible learning resources and tools.
 
 - **Indicadores Educacionais — Censo Escolar 2024** — [GitHub Repository](https://github.com/KianeSassaki/IndEducacionais)  
